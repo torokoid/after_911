@@ -95,7 +95,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <p class="topicpath"><a href="https://torokoid.github.io/Mashiko_himawari_4/" target="_blank">2024年8月10日、益子ひまわり祭</a>><a>8月17日、羽黒山</a></p>
 -->
 
-<p align="left"> <span class="yellow">&nbsp;after9.11、2024年9月10日</span></p>
+<p align="left"> <span class="yellow">&nbsp;after9.11、2024年9月12日</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
 <p align="left"> <img src="after911.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
