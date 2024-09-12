@@ -102,8 +102,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 9.11アメリカ同時多発テロに関してNHKで特集番組で放送されましたが、<br>
-	知らない事ばかりでしたので、備忘録も兼ねて記録しました。!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 9.11アメリカ同時多発テロに関してNHKで特集番組で放送されましたが、知らない事ばかりでしたので、備忘録も兼ねて記録しました。!!!</marquee></span></h2>
 <br><br><br>
 
 <h3><span class="yellow"><br>一つ目のリンクはアメリカ至上主義者が反イスラム、反アラブを掲げて殺害行為を繰り返したことに対し、<br>
@@ -114,6 +113,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>二つ目は加害者の犯行の記録部分<br><br></span></h3>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/CY0alNHYTdA?si=wvW38xIAG8fpbBkl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<!--
 <h3><span class="yellow"><br>三つ目はビルの崩落で息子さんを失った日本人のお父さんが、<br>
 	一連の出来事の反省点や今後こんな事が起こらないようにするために、<br>
 	小学校を訪れて次世代の子供達に向けてメッセージを投げかけています<br><br></span></h3>
@@ -122,7 +122,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <br><br><br>
 <h3><span class="yellow"><br>以上、今回も取り止めもない画像集でしたが、最後までご覧頂きありがとうございました。<br><br></span></h3>
-
+-->
 <!--
 <div style="background-color:rgb(255,255,255,0.8);">
 <h3><br>いつもありがとうございます。<br>
