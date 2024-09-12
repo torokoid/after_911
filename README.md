@@ -107,7 +107,8 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>一つ目のリンクはアメリカ至上主義者が反イスラム、反アラブを掲げて殺害行為を繰り返したことに対し、<br>
 	生き残った被害者がイスラム教の教えに則り、犯人への死刑求刑に対して減刑の訴えを起こした記録。<br>
-	ビデオの中で加害者のアメリカ人は、被害者の行為に対して感謝の意を述べ、そのまま死刑となっています。</span></h3>
+	ビデオの中で加害者のアメリカ人は、被害者の行為に対して感謝の意を述べ、<br>
+	今後アメリカでテロ事件が起こっても空弾みな行為は控えるべきだとのメッセージを残しそのまま死刑となっています。</span></h3>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/--wQURlBM_Q?si=Z4ddmSU3QSW3aSyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3><span class="yellow"><br>二つ目は加害者の犯行の記録部分</span></h3>
