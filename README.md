@@ -91,16 +91,33 @@ background-color: rgba(0, 225, 0, 0.6);
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
+<!--
 <p class="topicpath"><a href="https://torokoid.github.io/Mashiko_himawari_4/" target="_blank">2024年8月10日、益子ひまわり祭</a>><a>8月17日、羽黒山</a></p>
+-->
 
-<p align="left"> <span class="yellow">&nbsp;羽黒山、2024年8月17日</span></p>
+<p align="left"> <span class="yellow">&nbsp;after9.11、2024年9月10日</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
-<p align="left"> <img src="hagurosan4.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="after911.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 <br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 暑くなる前にバイクで羽黒山に登ってきました !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 9.11アメリカ同時多発テロに関してNHKで特集番組で放送されましたが、<br>
+	知らない事ばかりでしたので、備忘録も兼ねて記録しました。!!!</marquee></span></h2>
+<br><br><br>
+
+<h3><span class="yellow"><br>一つ目のリンクはアメリカ至上主義者が反イスラム、反アラブを掲げて殺害行為を繰り返したことに対し、<br>
+	生き残った被害者がイスラム教の教えに則り、犯人への死刑求刑に対して減刑の訴えを起こした記録。<br>
+	ビデオの中で加害者のアメリカ人は、被害者の行為に対して感謝の意を述べ、そのまま死刑となっています。<br><br></span></h3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/--wQURlBM_Q?si=Z4ddmSU3QSW3aSyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3><span class="yellow"><br>二つ目は加害者の犯行の記録部分<br><br></span></h3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/CY0alNHYTdA?si=wvW38xIAG8fpbBkl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3><span class="yellow"><br>三つ目はビルの崩落で息子さんを失った日本人のお父さんが、<br>
+	一連の出来事の反省点や今後こんな事が起こらないようにするために、<br>
+	小学校を訪れて次世代の子供達に向けてメッセージを投げかけています<br><br></span></h3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/za6osIOVIMU?si=y6rCc7c5LCTLiwEz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br><br><br>
