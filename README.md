@@ -102,7 +102,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 9.11アメリカ同時多発テロに関してNHKで特集番組で放送されましたが、知らない事ばかりでしたので、備忘録も兼ねて記録しました。!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 9.11アメリカ同時多発テロに関してNHKで特集番組が放送されましたが、知らない事ばかりでしたので、備忘録も兼ねて記録しました。!!!</marquee></span></h2>
 <br><br><br><br><br><br><br><br><br>
 
 <h3><span class="yellow"><br>一つ目のリンクはアメリカ至上主義者が反イスラム、反アラブを掲げて殺害行為を繰り返したことに対し、<br>
