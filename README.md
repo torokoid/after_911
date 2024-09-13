@@ -122,6 +122,9 @@ background-color: rgba(0, 225, 0, 0.6);
  <iframe width="560" height="315" src="https://www.youtube.com/embed/za6osIOVIMU?si=y6rCc7c5LCTLiwEz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
+<h3><span class="yellow"><br>番組の冒頭部分（サマリー）</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qlXw-gYC3PA?si=BxN3iCD_nz7pn6cJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br><br><br>
 <h3><span class="yellow"><br>以上、今回はショートですがここまで。<br><br></span></h3>
 
